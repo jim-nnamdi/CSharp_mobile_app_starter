@@ -1,0 +1,14 @@
+/Users/samfeolu/Projects/koleFramework/koleFramework/bin/Debug/netstandard2.0/koleFramework.deps.json
+/Users/samfeolu/Projects/koleFramework/koleFramework/bin/Debug/netstandard2.0/koleFramework.dll
+/Users/samfeolu/Projects/koleFramework/koleFramework/bin/Debug/netstandard2.0/ref/koleFramework.dll
+/Users/samfeolu/Projects/koleFramework/koleFramework/bin/Debug/netstandard2.0/koleFramework.pdb
+/Users/samfeolu/Projects/koleFramework/koleFramework/obj/Debug/netstandard2.0/koleFramework.csprojAssemblyReference.cache
+/Users/samfeolu/Projects/koleFramework/koleFramework/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/samfeolu/Projects/koleFramework/koleFramework/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/samfeolu/Projects/koleFramework/koleFramework/obj/Debug/netstandard2.0/koleFramework.AssemblyInfoInputs.cache
+/Users/samfeolu/Projects/koleFramework/koleFramework/obj/Debug/netstandard2.0/koleFramework.AssemblyInfo.cs
+/Users/samfeolu/Projects/koleFramework/koleFramework/obj/Debug/netstandard2.0/koleFramework.csproj.CoreCompileInputs.cache
+/Users/samfeolu/Projects/koleFramework/koleFramework/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/samfeolu/Projects/koleFramework/koleFramework/obj/Debug/netstandard2.0/koleFramework.dll
+/Users/samfeolu/Projects/koleFramework/koleFramework/obj/Debug/netstandard2.0/ref/koleFramework.dll
+/Users/samfeolu/Projects/koleFramework/koleFramework/obj/Debug/netstandard2.0/koleFramework.pdb

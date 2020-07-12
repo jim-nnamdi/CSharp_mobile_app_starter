@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "koleFramework.Android", "koleFramework.Android\koleFramework.Android.csproj", "{D3880DFC-DADF-436E-A5FC-22A725733A72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "koleFramework", "koleFramework\koleFramework.csproj", "{847EEBEA-964E-4576-A578-86B3903CCA97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3880DFC-DADF-436E-A5FC-22A725733A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3880DFC-DADF-436E-A5FC-22A725733A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3880DFC-DADF-436E-A5FC-22A725733A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3880DFC-DADF-436E-A5FC-22A725733A72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{847EEBEA-964E-4576-A578-86B3903CCA97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{847EEBEA-964E-4576-A578-86B3903CCA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{847EEBEA-964E-4576-A578-86B3903CCA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{847EEBEA-964E-4576-A578-86B3903CCA97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

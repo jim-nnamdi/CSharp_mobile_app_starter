@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{D3880DFC-DADF-436E-A5FC-22A725733A72}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="koleFramework/Views/EditCompanyPage.cs">
+    <Files>
+      <File FileName="koleFramework/Models/Company.cs" Line="19" Column="1" />
+      <File FileName="koleFramework/Views/AddCompanyPage.cs" />
+      <File FileName="koleFramework/Views/HomePage.cs" />
+      <File FileName="koleFramework/Views/GetAllCompaniesPage.cs" />
+      <File FileName="koleFramework/Views/EditCompanyPage.cs" Line="78" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/samfeolu/Projects/koleFramework/koleFramework/Views/HomePage.cs" relfile="koleFramework/Views/HomePage.cs" line="13" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.koleFramework.Android PreferredExecutionTarget="Android.emulator-5554" />
+</Properties>
