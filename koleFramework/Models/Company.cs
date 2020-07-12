@@ -5,7 +5,9 @@ namespace koleFramework.Models
     {
         //set the data-model for the application
         public int Id { get; set; }
+
         public string Name { get; set; }
+
         public string Address { get; set; }
 
         // override the string for the list view
